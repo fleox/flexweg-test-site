@@ -2,6 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="https://fleox.github.io/flexweg-test-site/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fleox.github.io/flexweg-test-site/test-2.html</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
     <loc>https://fleox.github.io/flexweg-test-site/test.html</loc>
     <lastmod>2026-10-20</lastmod>
   </url>
