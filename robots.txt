@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://fleox.github.io/flexweg-test-site/sitemaps/sitemap-index.xml
