@@ -2,31 +2,23 @@
 <?xml-stylesheet type="text/xsl" href="https://fleox.github.io/flexweg-test-site/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fleox.github.io/flexweg-test-site/test-corss-team.html</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://fleox.github.io/flexweg-test-site/test-alex.html</loc>
     <lastmod>2026-10-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://fleox.github.io/flexweg-test-site/test-alex.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://fleox.github.io/flexweg-test-site/test-alex.html"/>
-
   </url>
   <url>
     <loc>https://fleox.github.io/flexweg-test-site/test-post-3.html</loc>
     <lastmod>2026-10-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://fleox.github.io/flexweg-test-site/test-post-3.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://fleox.github.io/flexweg-test-site/test-post-3.html"/>
-
   </url>
   <url>
     <loc>https://fleox.github.io/flexweg-test-site/test-2.html</loc>
     <lastmod>2026-10-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://fleox.github.io/flexweg-test-site/test-2.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://fleox.github.io/flexweg-test-site/test-2.html"/>
-
   </url>
   <url>
     <loc>https://fleox.github.io/flexweg-test-site/test.html</loc>
     <lastmod>2026-10-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://fleox.github.io/flexweg-test-site/test.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://fleox.github.io/flexweg-test-site/test.html"/>
-
   </url>
 </urlset>
