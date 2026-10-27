@@ -10238,7 +10238,7 @@ function ul(r, e) {
 const zn = {
   id: "magazine",
   name: "Magazine",
-  version: "1.0.0",
+  version: "1.1.0",
   description: "Editorial magazine theme inspired by long-form journalism — Tailwind-based, with an editable Material 3 palette.",
   // Convention name used by build-themes.mjs only as a fallback when
   // `theme.compiled.css` is missing. The magazine theme uses Tailwind
