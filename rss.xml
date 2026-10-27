@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fleox.github.io/flexweg-test-site/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carnets du Nord</title>
+    <link>https://fleox.github.io/flexweg-test-site/</link>
+    <description>Carnets de voyage en Norvège, en Islande et en Finlande : fjords, aurores boréales, volcans et grands silences du Grand Nord.</description>
+    <language>fr</language>
+    <lastBuildDate>Tue, 27 Oct 2026 17:18:34 GMT</lastBuildDate>
+    <atom:link href="https://fleox.github.io/flexweg-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Une semaine d&apos;hiver en Laponie finlandaise</title>
+      <link>https://fleox.github.io/flexweg-test-site/finlande/semaine-hiver-laponie.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/finlande/semaine-hiver-laponie.html</guid>
+      <category>Finlande</category>
+      <description><![CDATA[Rovaniemi, traîneaux à chiens, rennes et sauna au bord d'un lac gelé : une semaine d'hiver en Laponie finlandaise.]]></description>
+      <pubDate>Tue, 27 Oct 2026 17:16:58 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/laponie-foret-neige-d44ec0/large.webp" length="8460" type="image/webp"/>
+    </item>
+    <item>
+      <title>Reynisfjara, la plage des trolls</title>
+      <link>https://fleox.github.io/flexweg-test-site/islande/reynisfjara-plage-des-trolls.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/islande/reynisfjara-plage-des-trolls.html</guid>
+      <category>Islande</category>
+      <description><![CDATA[Sable noir, orgues basaltiques et légende des trolls : visite de Reynisfjara, la plage la plus spectaculaire d'Islande.]]></description>
+      <pubDate>Tue, 27 Oct 2026 17:16:56 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/islande-plage-noire-reynisfjara-bb9918/large.webp" length="8138" type="image/webp"/>
+    </item>
+    <item>
+      <title>La côte sud de l&apos;Islande en trois jours</title>
+      <link>https://fleox.github.io/flexweg-test-site/islande/cote-sud-islande-trois-jours.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/islande/cote-sud-islande-trois-jours.html</guid>
+      <category>Islande</category>
+      <description><![CDATA[Geysers, cascades et plages de sable noir : notre itinéraire de trois jours sur la côte sud de l'Islande.]]></description>
+      <pubDate>Tue, 27 Oct 2026 17:16:52 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/islande-cascade-skogafoss-020871/large.webp" length="8114" type="image/webp"/>
+    </item>
+    <item>
+      <title>Chasser les aurores boréales à Tromsø</title>
+      <link>https://fleox.github.io/flexweg-test-site/norvege/aurores-boreales-tromso.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/norvege/aurores-boreales-tromso.html</guid>
+      <category>Norvège</category>
+      <description><![CDATA[Comprendre, prévoir et photographier les aurores boréales depuis Tromsø, puis filer vers les îles Lofoten.]]></description>
+      <pubDate>Tue, 27 Oct 2026 17:16:50 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/aurore-boreale-tromso-1fbf8f/large.webp" length="8984" type="image/webp"/>
+    </item>
+    <item>
+      <title>Au petit matin sur le fjord de Geiranger</title>
+      <link>https://fleox.github.io/flexweg-test-site/norvege/au-petit-matin-sur-le-fjord-de-geiranger.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/norvege/au-petit-matin-sur-le-fjord-de-geiranger.html</guid>
+      <category>Norvège</category>
+      <description><![CDATA[Traversée à l'aube du fjord de Geiranger, belvédères et fermes suspendues : notre journée dans l'un des plus beaux fjords de Norvège.]]></description>
+      <pubDate>Tue, 27 Oct 2026 17:16:47 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/fjord-geiranger-aube-2112ef/large.webp" length="10210" type="image/webp"/>
+    </item>
+  </channel>
+</rss>
