@@ -6,7 +6,7 @@
     <link>https://fleox.github.io/flexweg-test-site/</link>
     <description>Carnets de voyage en Norvège, en Islande et en Finlande : fjords, aurores boréales, volcans et grands silences du Grand Nord.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:22:44 GMT</lastBuildDate>
     <atom:link href="https://fleox.github.io/flexweg-test-site/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Une semaine d&apos;hiver en Laponie finlandaise</title>
@@ -34,15 +34,6 @@
       <description><![CDATA[Geysers, cascades et plages de sable noir : notre itinéraire de trois jours sur la côte sud de l'Islande.]]></description>
       <pubDate>Tue, 27 Oct 2026 17:16:52 GMT</pubDate>
       <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/islande-cascade-skogafoss-020871/large.webp" length="8114" type="image/webp"/>
-    </item>
-    <item>
-      <title>Chasser les aurores boréales à Tromsø</title>
-      <link>https://fleox.github.io/flexweg-test-site/norvege/aurores-boreales-tromso.html</link>
-      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/norvege/aurores-boreales-tromso.html</guid>
-      <category>Norvège</category>
-      <description><![CDATA[Comprendre, prévoir et photographier les aurores boréales depuis Tromsø, puis filer vers les îles Lofoten.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:16:50 GMT</pubDate>
-      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/aurore-boreale-tromso-1fbf8f/large.webp" length="8984" type="image/webp"/>
     </item>
     <item>
       <title>Au petit matin sur le fjord de Geiranger</title>
