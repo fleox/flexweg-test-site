@@ -123,9 +123,9 @@
         "showPopularArticles": true,
         "popularArticlesTitle": "",
         "showCta": true,
-        "ctaTitle": "Votre premier cours est à 12 €",
-        "ctaButtonLabel": "Réserver",
-        "ctaButtonHref": "/contact.html"
+        "ctaTitle": "",
+        "ctaButtonLabel": "",
+        "ctaButtonHref": ""
       }
     }
   },
