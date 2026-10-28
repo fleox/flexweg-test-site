@@ -7,7 +7,7 @@ status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:19.127Z"
-updatedAt: "2026-10-28T12:47:55.657Z"
+updatedAt: "2026-10-28T12:58:50.084Z"
 excerpt: "Studio de yoga à Lyon Croix-Rousse : hatha, vinyasa, yin et prénatal en petits groupes."
 seo: {"title":"Studio de yoga à Lyon Croix-Rousse","description":"Studio Prana, studio de yoga à Lyon Croix-Rousse : hatha, vinyasa, yin et yoga prénatal en petits groupes de 12 personnes. Premier cours à 12 €."}
 publishedAt: "2026-10-28T12:47:55.657Z"
