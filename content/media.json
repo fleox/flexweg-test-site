@@ -1,5 +1,53 @@
 [
   {
+    "id": "1v5v3DTuINewrswlua2a",
+    "name": "portrait-claire-martin.jpg",
+    "contentType": "image/webp",
+    "size": 239142,
+    "storageBase": "media/2026/10/portrait-claire-martin-740b35",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 4162
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 17892
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 124712
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 11202
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 26284
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 54890
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190897730,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "5URcpQTbo56i5cHTSGKB",
     "name": "canoe-lac-turquoise.jpg",
     "contentType": "image/webp",
