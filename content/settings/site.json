@@ -20,7 +20,10 @@
         "itemCount": 20,
         "excludedTermIds": [],
         "addToFooter": true,
-        "lastLocalePaths": []
+        "lastLocalePaths": [
+          "en/rss.xml"
+        ],
+        "lastPublishedPath": "rss.xml"
       },
       "categoryFeeds": []
     },
