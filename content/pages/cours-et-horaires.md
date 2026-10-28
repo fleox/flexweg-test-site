@@ -3,13 +3,14 @@ id: G86gNAGKerSumNXfuiHf
 type: page
 title: Cours et horaires
 slug: cours-et-horaires
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:26.371Z"
-updatedAt: "2026-10-28T12:47:58.547Z"
+updatedAt: "2026-10-28T12:48:00.812Z"
 excerpt: Le planning de la semaine et la description de nos cours de hatha, vinyasa, yin et yoga prénatal.
 seo: {"description":"Planning des cours de yoga de Studio Prana à Lyon : hatha, vinyasa flow, yin et yoga prénatal, du lundi au dimanche."}
+publishedAt: "2026-10-28T12:48:00.812Z"
 ---
 
 Tous nos cours durent **1 h 15** (1 h pour le midi) et accueillent **12 personnes au maximum**. Les tapis, briques, sangles et coussins sont fournis. Arrivez 10 minutes en avance pour votre premier cours : nous prendrons le temps de faire connaissance.
