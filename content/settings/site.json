@@ -51,6 +51,18 @@
       "pwaThemeColor": "#26352b",
       "pwaBackgroundColor": "#faf7f2",
       "pwaDisplay": "standalone"
+    },
+    "reading-time": {
+      "enabled": true,
+      "wordsPerMinute": 200,
+      "position": "both",
+      "style": "badge",
+      "includePages": false,
+      "minMinutes": 1,
+      "labels": {
+        "fr": "Temps de lecture : {minutes} min",
+        "en": "{minutes}-minute read"
+      }
     }
   },
   "activeThemeId": "corporate",
