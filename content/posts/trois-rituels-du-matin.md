@@ -3,11 +3,11 @@ id: SRWxFoUu8F2cB6Z5n2Cy
 type: post
 title: Trois rituels du matin pour commencer la journée en douceur
 slug: trois-rituels-du-matin
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: ["kE7WYG9O4vsQ51HM3CQ7","ZgA4rhKKUWdNeABoI46V","W6pHPB9I63HwTWb4aW8A"]
 createdAt: "2026-10-21T09:00:00.000Z"
-updatedAt: "2026-10-28T12:48:28.926Z"
+updatedAt: "2026-10-28T12:48:31.394Z"
 excerpt: "Un verre d'eau, six postures, une intention : quinze minutes pour bien démarrer la journée."
 heroMediaId: vLgQvJVTsoZQrCscDXZA
 primaryTermId: kE7WYG9O4vsQ51HM3CQ7
