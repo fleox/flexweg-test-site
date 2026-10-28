@@ -41,7 +41,14 @@
     "name": "Yin yoga",
     "slug": "yin-yoga",
     "createdAt": 1793191326599,
-    "updatedAt": 1793191326599
+    "updatedAt": 1793191526642,
+    "translations": {
+      "en": {
+        "slug": "yin-yoga",
+        "name": "Yin yoga",
+        "description": ""
+      }
+    }
   },
   {
     "id": "ZgA4rhKKUWdNeABoI46V",
