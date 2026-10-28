@@ -56,7 +56,14 @@
     "name": "Routine",
     "slug": "routine",
     "createdAt": 1793191336274,
-    "updatedAt": 1793191336274
+    "updatedAt": 1793191533818,
+    "translations": {
+      "en": {
+        "slug": "routine",
+        "name": "Routine",
+        "description": ""
+      }
+    }
   },
   {
     "id": "cZxuN8GOhe1H0RMLY1Tw",
