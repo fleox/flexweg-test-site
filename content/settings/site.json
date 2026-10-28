@@ -129,5 +129,155 @@
       }
     }
   },
+  "menus": {
+    "header": [
+      {
+        "id": "91c30406-fb27-4082-a5cb-d103c42ed42f",
+        "label": "Accueil",
+        "ref": {
+          "kind": "home"
+        },
+        "translations": {
+          "en": {
+            "label": "Home"
+          }
+        }
+      },
+      {
+        "id": "23e8f4dd-cde8-4930-a7c3-a43a48166dec",
+        "label": "Cours et horaires",
+        "ref": {
+          "kind": "post",
+          "id": "G86gNAGKerSumNXfuiHf"
+        },
+        "translations": {
+          "en": {
+            "label": "Classes & schedule"
+          }
+        }
+      },
+      {
+        "id": "bd187fe3-3af0-421d-ab62-b48ded77dcec",
+        "label": "Tarifs",
+        "ref": {
+          "kind": "post",
+          "id": "dQjnkUmwAlYPY7G97zSH"
+        },
+        "translations": {
+          "en": {
+            "label": "Prices"
+          }
+        }
+      },
+      {
+        "id": "a6cf6d4a-4a0c-4ed7-b6cb-2af78e1ffda4",
+        "label": "Professeurs",
+        "ref": {
+          "kind": "post",
+          "id": "37MdcMFNAYWDS1Qju96v"
+        },
+        "translations": {
+          "en": {
+            "label": "Teachers"
+          }
+        }
+      },
+      {
+        "id": "00311156-d823-47b1-b3ab-59e572a2ce2a",
+        "label": "Journal",
+        "ref": {
+          "kind": "term",
+          "id": "mUETM2qBz5TGH0PVmKmD"
+        },
+        "translations": {
+          "en": {
+            "label": "Journal"
+          }
+        },
+        "children": [
+          {
+            "id": "0ad01d6e-f85c-44d8-98a2-bbc4719d9de8",
+            "label": "Pratique",
+            "ref": {
+              "kind": "term",
+              "id": "mUETM2qBz5TGH0PVmKmD"
+            },
+            "translations": {
+              "en": {
+                "label": "Practice"
+              }
+            }
+          },
+          {
+            "id": "b79fb5be-ab54-4e04-9c3a-86d58ddd6d5a",
+            "label": "Bien-être",
+            "ref": {
+              "kind": "term",
+              "id": "kE7WYG9O4vsQ51HM3CQ7"
+            },
+            "translations": {
+              "en": {
+                "label": "Wellbeing"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "888c1e22-3e5a-4225-89cd-de35f2f53655",
+        "label": "Contact",
+        "ref": {
+          "kind": "post",
+          "id": "RfGuJ5boZ1SEajRPOoz7"
+        },
+        "translations": {
+          "en": {
+            "label": "Contact"
+          }
+        }
+      }
+    ],
+    "footer": [
+      {
+        "id": "c03c1bb9-5dfe-4c8d-8ea9-ce9b28a365fd",
+        "label": "Cours et horaires",
+        "ref": {
+          "kind": "post",
+          "id": "G86gNAGKerSumNXfuiHf"
+        },
+        "translations": {
+          "en": {
+            "label": "Classes & schedule"
+          }
+        }
+      },
+      {
+        "id": "775501ca-e96b-4a44-b3b7-e2422dbcedc0",
+        "label": "Tarifs",
+        "ref": {
+          "kind": "post",
+          "id": "dQjnkUmwAlYPY7G97zSH"
+        },
+        "translations": {
+          "en": {
+            "label": "Prices"
+          }
+        }
+      },
+      {
+        "id": "08302769-035d-4732-a8be-76a56e8f4d10",
+        "label": "Contact",
+        "ref": {
+          "kind": "post",
+          "id": "RfGuJ5boZ1SEajRPOoz7"
+        },
+        "translations": {
+          "en": {
+            "label": "Contact"
+          }
+        }
+      }
+    ]
+  },
   "id": "site"
 }
