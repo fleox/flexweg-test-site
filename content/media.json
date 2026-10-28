@@ -47,5 +47,53 @@
     "uploadedAt": 1793190849248,
     "uploadedBy": "github:fleox",
     "alt": "Fleur de nénuphar blanche au cœur jaune posée sur une eau sombre et immobile"
+  },
+  {
+    "id": "w3UdR8yEpCAXSagWN4AS",
+    "name": "theiere-infusion-fleurs.jpg",
+    "contentType": "image/webp",
+    "size": 257706,
+    "storageBase": "media/2026/10/theiere-infusion-fleurs-e548df",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 6564
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 27542
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 113984
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16322
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 31276
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/theiere-infusion-fleurs-e548df/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 62018
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190854550,
+    "uploadedBy": "github:fleox"
   }
 ]
