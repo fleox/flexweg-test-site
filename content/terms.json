@@ -10,5 +10,14 @@
     "seo": {
       "description": "Toutes les actualités du Fournil de Léa, boulangerie artisanale au levain."
     }
+  },
+  {
+    "id": "mEN3xyWbF84RrUSvLrsY",
+    "type": "category",
+    "name": "Savoir-faire",
+    "slug": "savoir-faire",
+    "createdAt": 1793190689486,
+    "updatedAt": 1793190689486,
+    "description": "Levain, farines, fermentation : comment nous travaillons au quotidien."
   }
 ]
