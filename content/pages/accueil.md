@@ -3,13 +3,14 @@ id: 43b0HXVCLDpIHp5Q4BHG
 type: page
 title: Accueil
 slug: accueil
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:19.127Z"
-updatedAt: "2026-10-28T12:47:53.146Z"
+updatedAt: "2026-10-28T12:47:55.657Z"
 excerpt: "Studio de yoga à Lyon Croix-Rousse : hatha, vinyasa, yin et prénatal en petits groupes."
 seo: {"title":"Studio de yoga à Lyon Croix-Rousse","description":"Studio Prana, studio de yoga à Lyon Croix-Rousse : hatha, vinyasa, yin et yoga prénatal en petits groupes de 12 personnes. Premier cours à 12 €."}
+publishedAt: "2026-10-28T12:47:55.657Z"
 ---
 
 <div data-attrs="eyJpbWFnZVVybCI6Ii9tZWRpYS8yMDI2LzEwL3NvbW1ldHMtbWVyLWRlLW51YWdlcy05YmEwODYvbGFyZ2Uud2VicCIsImltYWdlQWx0IjoiU29tbWV0cyBtb250YWduZXV4IMOpbWVyZ2VhbnQgZCd1bmUgbWVyIGRlIG51YWdlcyIsImV5ZWJyb3ciOiJTdHVkaW8gZGUgeW9nYSDCtyBMeW9uIENyb2l4LVJvdXNzZSIsInRpdGxlIjoiUmVzcGlyZXIsIGJvdWdlciwgcmV2ZW5pciDDoCBzb2kiLCJzdWJ0aXRsZSI6IkhhdGhhLCB2aW55YXNhLCB5aW4gZXQgeW9nYSBwcsOpbmF0YWwgZW4gcGV0aXRzIGdyb3VwZXMgZGUgMTIgcGVyc29ubmVzIG1heGltdW0sIGRhbnMgdW4gc3R1ZGlvIGx1bWluZXV4IGF1IGPFk3VyIGRlcyBwZW50ZXMgZGUgbGEgQ3JvaXgtUm91c3NlLiIsInByaW1hcnlDdGFMYWJlbCI6IlLDqXNlcnZlciB1biBjb3VycyBkJ2Vzc2FpIiwicHJpbWFyeUN0YUhyZWYiOiIvY29udGFjdC5odG1sIiwic2Vjb25kYXJ5Q3RhTGFiZWwiOiJWb2lyIGxlcyBob3JhaXJlcyIsInNlY29uZGFyeUN0YUhyZWYiOiIvY291cnMtZXQtaG9yYWlyZXMuaHRtbCJ9" data-cms-block="corporate/hero-overlay">
