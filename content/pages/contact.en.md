@@ -1,0 +1,21 @@
+---
+title: Contact
+slug: contact
+excerpt: Address, directions and contact form.
+seo: {"description":"Contact Studio Prana, 14 rue d'Austerlitz, Lyon 4th: book a trial class or a private session."}
+---
+
+A question about a class, a trial class or a private session? Write to us, we answer within 24 hours (except Sundays).
+
+<div data-attrs="eyJoZWFkaW5nIjoiRmluZCB1cyIsImFkZHJlc3NMaW5lcyI6IlN0dWRpbyBQcmFuYVxuMTQgcnVlIGQnQXVzdGVybGl0elxuNjkwMDQgTHlvbiIsInBob25lTGluZXMiOiIwNCA3OCAyOSA0MSAwNyIsImVtYWlsTGluZXMiOiJib25qb3VyQHN0dWRpby1wcmFuYS5mciIsInNvY2lhbHNMYWJlbCI6IkZvbGxvdyB1cyIsInNvY2lhbHMiOlt7Imljb24iOiJwaG90b19jYW1lcmEiLCJocmVmIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS8iLCJhcmlhTGFiZWwiOiJJbnN0YWdyYW0ifV19" data-cms-block="corporate/contact-info">
+</div>
+
+<div data-attrs="eyJoZWFkaW5nIjoiV3JpdGUgdG8gdXMiLCJzdWJ0aXRsZSI6IllvdXIgbWVzc2FnZSBvcGVucyBpbiB5b3VyIGVtYWlsIGFwcCwgcmVhZHkgdG8gc2VuZC4iLCJtb2RlIjoibWFpbHRvIiwiZW5kcG9pbnRVcmwiOiIiLCJtYWlsdG9BZGRyZXNzIjoiYm9uam91ckBzdHVkaW8tcHJhbmEuZnIiLCJsYWJlbE5hbWUiOiJGdWxsIG5hbWUiLCJsYWJlbEVtYWlsIjoiRW1haWwiLCJsYWJlbENvbXBhbnkiOiJQaG9uZSAob3B0aW9uYWwpIiwibGFiZWxTdWJqZWN0IjoiU3ViamVjdCIsImxhYmVsTWVzc2FnZSI6Ik1lc3NhZ2UiLCJzdWJqZWN0T3B0aW9ucyI6IlRyaWFsIGNsYXNzXG5NZW1iZXJzaGlwXG5Qcml2YXRlIHNlc3Npb25cbk90aGVyIiwic3VibWl0TGFiZWwiOiJTZW5kIiwicHJpdmFjeVRleHQiOiIiLCJwcml2YWN5SHJlZiI6IiIsInN1Y2Nlc3NNZXNzYWdlIjoiVGhhbmsgeW91ISBXZSdsbCBnZXQgYmFjayB0byB5b3Ugc2hvcnRseS4iLCJlcnJvck1lc3NhZ2UiOiJTZW5kaW5nIGZhaWxlZCwgcGxlYXNlIHdyaXRlIHRvIGJvbmpvdXJAc3R1ZGlvLXByYW5hLmZyLiJ9" data-cms-block="corporate/contact-form">
+</div>
+
+## Getting here
+
+Metro line C, **Croix-Rousse** stop (5-minute walk). Buses C13 and S12, Austerlitz stop. Vélo'v bike stations on place de la Croix-Rousse. The studio is on the ground floor and wheelchair accessible.
+
+<div data-attrs="eyJjb2RlIjoiPGlmcmFtZSB0aXRsZT1cIk1hcCB0byBTdHVkaW8gUHJhbmFcIiBzcmM9XCJodHRwczovL3d3dy5vcGVuc3RyZWV0bWFwLm9yZy9leHBvcnQvZW1iZWQuaHRtbD9iYm94PTQuODI3MCUyQzQ1Ljc3MTAlMkM0LjgzNzAlMkM0NS43NzcwJmFtcDtsYXllcj1tYXBuaWsmYW1wO21hcmtlcj00NS43NzQwJTJDNC44MzIwXCIgc3R5bGU9XCJ3aWR0aDoxMDAlO2hlaWdodDozNjBweDtib3JkZXI6MDtib3JkZXItcmFkaXVzOjEycHhcIiBsb2FkaW5nPVwibGF6eVwiPjwvaWZyYW1lPiJ9" data-cms-block="agentcms-blocks/html">
+</div>
