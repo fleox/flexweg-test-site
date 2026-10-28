@@ -98,6 +98,54 @@
     "alt": "Inès Garnier, professeure de yoga, en lunettes de soleil avec un bouquet de fleurs blanches dans un champ"
   },
   {
+    "id": "4fHSDhEk4vIJuD8lLI5H",
+    "name": "portrait-thomas-roux.jpg",
+    "contentType": "image/webp",
+    "size": 137082,
+    "storageBase": "media/2026/10/portrait-thomas-roux-0c8e1e",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 2904
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 13146
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 66380
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 7080
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 14820
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 32752
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190908741,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "5URcpQTbo56i5cHTSGKB",
     "name": "canoe-lac-turquoise.jpg",
     "contentType": "image/webp",
