@@ -3,11 +3,11 @@ id: g8u8FDHJiMdxqgF0sOCH
 type: post
 title: "Débuter le yoga après 40 ans : nos conseils pour un premier cours serein"
 slug: debuter-le-yoga-apres-40-ans
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: ["mUETM2qBz5TGH0PVmKmD","cZxuN8GOhe1H0RMLY1Tw","W6pHPB9I63HwTWb4aW8A"]
 createdAt: "2026-09-18T09:00:00.000Z"
-updatedAt: "2026-10-28T12:48:19.500Z"
+updatedAt: "2026-10-28T12:48:22.149Z"
 excerpt: La souplesse n'est pas un prérequis mais une conséquence. Nos conseils pour aborder votre premier cours sans appréhension.
 heroMediaId: hJAYaogDoc0WQ4ZafNWF
 primaryTermId: mUETM2qBz5TGH0PVmKmD
