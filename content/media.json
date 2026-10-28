@@ -49,6 +49,54 @@
     "alt": "Coucher de soleil orangé sur une prairie verte bordée d'arbres"
   },
   {
+    "id": "hJAYaogDoc0WQ4ZafNWF",
+    "name": "silhouette-femme-lumiere-couchant.jpg",
+    "contentType": "image/webp",
+    "size": 126266,
+    "storageBase": "media/2026/10/silhouette-femme-lumiere-couchant-21f495",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 2440
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 10104
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 63020
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 6340
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 14726
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 29636
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190870781,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "jMR2a9n729kZK3TlNENV",
     "name": "nenuphar-blanc-eau-calme.jpg",
     "contentType": "image/webp",
