@@ -40,5 +40,94 @@
   "activeThemeId": "corporate",
   "homeMode": "static-page",
   "homePageId": "43b0HXVCLDpIHp5Q4BHG",
+  "themeConfigs": {
+    "corporate": {
+      "logoEnabled": false,
+      "logoUpdatedAt": 0,
+      "style": {
+        "vars": {
+          "--color-primary": "#26352b",
+          "--color-primary-container": "#33463a",
+          "--color-on-primary-container": "#a9bfae",
+          "--color-secondary": "#a8553a",
+          "--color-secondary-container": "#c4734f",
+          "--color-secondary-fixed": "#f6e1d6",
+          "--color-secondary-fixed-dim": "#e9bba6",
+          "--color-background": "#faf7f2",
+          "--color-surface": "#faf7f2",
+          "--color-surface-bright": "#faf7f2",
+          "--color-surface-container-low": "#f4efe7",
+          "--color-surface-container": "#efe9df",
+          "--color-surface-container-high": "#e9e2d6"
+        },
+        "fontSans": "DM Sans"
+      },
+      "cssUpdatedAt": 0,
+      "home": {
+        "showHero": true,
+        "hero": {
+          "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1920&q=80",
+          "imageAlt": "Modern corporate office",
+          "eyebrow": "Innovation & reliability",
+          "title": "Propel your business toward the future",
+          "subtitle": "Strategic, tailor-made solutions for SMEs seeking digital growth and operational excellence.",
+          "primaryCtaLabel": "Get started",
+          "primaryCtaHref": "/contact.html",
+          "secondaryCtaLabel": "See our solutions",
+          "secondaryCtaHref": "#services"
+        },
+        "featuredPosts": {
+          "enabled": true,
+          "title": "Our latest insights",
+          "subtitle": "Stay ahead of the curve with strategic perspectives from our team of experts.",
+          "mode": "all",
+          "categoryId": "",
+          "count": 3
+        },
+        "testimonials": {
+          "enabled": true,
+          "eyebrow": "",
+          "title": "Trusted by industry leaders",
+          "subtitle": "More than 500 businesses accelerate their growth with us.",
+          "variant": "glass",
+          "items": [
+            {
+              "rating": 5,
+              "quote": "Their platform completely changed our customer-service approach. We cut operational costs by 30% in six months.",
+              "authorName": "Jean-Pierre Dubois",
+              "authorTitle": "Operations Director, LogisTech",
+              "authorAvatarUrl": "",
+              "authorAvatarAlt": ""
+            },
+            {
+              "rating": 5,
+              "quote": "Exceptional strategic guidance — they truly understand the challenges modern SMEs face. An indispensable partner.",
+              "authorName": "Marie Leroux",
+              "authorTitle": "Founder, GreenPulse",
+              "authorAvatarUrl": "",
+              "authorAvatarAlt": ""
+            },
+            {
+              "rating": 5,
+              "quote": "The cloud transition was surprisingly fluid. They handled the technical complexity, letting us focus on our core business.",
+              "authorName": "Thomas Martin",
+              "authorTitle": "CTO, DataSecure",
+              "authorAvatarUrl": "",
+              "authorAvatarAlt": ""
+            }
+          ]
+        }
+      },
+      "single": {
+        "showAuthorBio": true,
+        "showPopularArticles": true,
+        "popularArticlesTitle": "",
+        "showCta": true,
+        "ctaTitle": "Votre premier cours est à 12 €",
+        "ctaButtonLabel": "Réserver",
+        "ctaButtonHref": "/contact.html"
+      }
+    }
+  },
   "id": "site"
 }
