@@ -98,6 +98,54 @@
     "alt": "Sommets montagneux émergeant d'une mer de nuages"
   },
   {
+    "id": "I1TES4O7DmsOevh8MUJ4",
+    "name": "femme-champ-dore.jpg",
+    "contentType": "image/webp",
+    "size": 492454,
+    "storageBase": "media/2026/10/femme-champ-dore-ac8427",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 6606
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 35494
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 235930
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 22010
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 64572
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/femme-champ-dore-ac8427/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 127842
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190892462,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "cpPReAVELSkcWXrFrCNa",
     "name": "coucher-soleil-prairie-arbres.jpg",
     "contentType": "image/webp",
