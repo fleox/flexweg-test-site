@@ -28,5 +28,14 @@
     "createdAt": 1793190689486,
     "updatedAt": 1793190689486,
     "description": "Levain, farines, fermentation : comment nous travaillons au quotidien."
+  },
+  {
+    "id": "mUETM2qBz5TGH0PVmKmD",
+    "type": "category",
+    "name": "Pratique",
+    "slug": "pratique",
+    "createdAt": 1793191218000,
+    "updatedAt": 1793191218000,
+    "description": "Conseils de nos professeurs pour progresser sur le tapis, du premier cours aux pratiques plus avancées."
   }
 ]
