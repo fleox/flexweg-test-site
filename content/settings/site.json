@@ -38,5 +38,7 @@
     }
   },
   "activeThemeId": "corporate",
+  "homeMode": "static-page",
+  "homePageId": "43b0HXVCLDpIHp5Q4BHG",
   "id": "site"
 }
