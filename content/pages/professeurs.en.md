@@ -5,28 +5,11 @@ excerpt: Claire, Thomas and Inès, the Studio Prana team.
 seo: {"description":"Meet Studio Prana's teachers in Lyon: Claire Martin (hatha), Thomas Roux (vinyasa) and Inès Garnier (yin and prenatal)."}
 ---
 
-Three teachers, three sensitivities, one standard: everyone should leave class with a freer body and a calmer mind. All are certified (500 hours minimum) and keep training every year.
+<div data-attrs="eyJpbWFnZVVybCI6Ii9tZWRpYS8yMDI2LzEwL2NvdWNoZXItc29sZWlsLXByYWlyaWUtYXJicmVzLWNiYTMxMy9sYXJnZS53ZWJwIiwiaW1hZ2VBbHQiOiJTdW5zZXQgb3ZlciBhIG1lYWRvdyIsImV5ZWJyb3ciOiJUaGUgdGVhbSIsInRpdGxlIjoiT3VyIHRlYWNoZXJzIiwic3VidGl0bGUiOiJUaHJlZSB0ZWFjaGVycywgdGhyZWUgc2Vuc2l0aXZpdGllcywgb25lIHN0YW5kYXJkOiBldmVyeW9uZSBzaG91bGQgbGVhdmUgd2l0aCBhIGZyZWVyIGJvZHkgYW5kIGEgY2FsbWVyIG1pbmQuIEFsbCBhcmUgY2VydGlmaWVkICg1MDAgaG91cnMgbWluaW11bSkuIiwicHJpbWFyeUN0YUxhYmVsIjoiIiwicHJpbWFyeUN0YUhyZWYiOiIiLCJzZWNvbmRhcnlDdGFMYWJlbCI6IiIsInNlY29uZGFyeUN0YUhyZWYiOiIifQ==" data-cms-block="corporate/hero-overlay">
+</div>
 
-## Claire Martin — founder, hatha yoga
+<div data-attrs="eyJleWVicm93IjoiIiwidGl0bGUiOiIiLCJzdWJ0aXRsZSI6IiIsImFsdGVybmF0ZSI6dHJ1ZSwiZmVhdHVyZXMiOlt7Imljb24iOiJzZWxmX2ltcHJvdmVtZW50IiwiZXllYnJvdyI6IkZvdW5kZXIgwrcgSGF0aGEiLCJ0aXRsZSI6IkNsYWlyZSBNYXJ0aW4iLCJkZXNjcmlwdGlvbiI6IkEgZm9ybWVyIHBoeXNpb3RoZXJhcGlzdCwgQ2xhaXJlIGRpc2NvdmVyZWQgeW9nYSBpbiAyMDA4IHRvIHJlbGlldmUgYSBiYWNrIHdvcm4gb3V0IGJ5IGhhbmRiYWxsLiBUcmFpbmVkIGluIGhhdGhhIGluIFJpc2hpa2VzaCBhbmQgaW4gdGhlcmFwZXV0aWMgeW9nYSBpbiBQYXJpcywgc2hlIG9wZW5lZCBTdHVkaW8gUHJhbmEgaW4gMjAxNi4gSGVyIGNsYXNzZXMgYXJlIHByZWNpc2UsIHJlYXNzdXJpbmcgYW5kIGFkYXB0ZWQgdG8gZWFjaCBwZXJzb24ncyBsaW1pdHMuIiwiY3RhTGFiZWwiOiJIZXIgY2xhc3NlcyIsImN0YUhyZWYiOiIvZW4vY2xhc3Nlcy1hbmQtc2NoZWR1bGUuaHRtbCIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvcG9ydHJhaXQtY2xhaXJlLW1hcnRpbi03NDBiMzUvbGFyZ2Uud2VicCIsImltYWdlQWx0IjoiUG9ydHJhaXQgb2YgQ2xhaXJlIE1hcnRpbiJ9LHsiaWNvbiI6ImFpciIsImV5ZWJyb3ciOiJWaW55YXNhIGZsb3ciLCJ0aXRsZSI6IlRob21hcyBSb3V4IiwiZGVzY3JpcHRpb24iOiJBIGZvcm1lciBlbmdpbmVlciwgVGhvbWFzIGZvdW5kIGluIHZpbnlhc2EgdGhlIGVuZXJneSBhbmQgZm9jdXMgaGUgd2FzIG1pc3NpbmcgYXQgdGhlIG9mZmljZS4gVHJhaW5lZCBpbiBhc2h0YW5nYSBpbiBNeXNvcmUgYW5kIHZpbnlhc2EgaW4gQmFyY2Vsb25hLCBoZSBvZmZlcnMgY3JlYXRpdmUsIHJoeXRobWljIHNlcXVlbmNlcyB3aXRoIHBsZW50eSBvZiBodW1vdXIuIiwiY3RhTGFiZWwiOiJIaXMgY2xhc3NlcyIsImN0YUhyZWYiOiIvZW4vY2xhc3Nlcy1hbmQtc2NoZWR1bGUuaHRtbCIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvcG9ydHJhaXQtdGhvbWFzLXJvdXgtMGM4ZTFlL2xhcmdlLndlYnAiLCJpbWFnZUFsdCI6IlRob21hcyBSb3V4IHNpdHRpbmcgYnkgdGhlIHdhdGVyIGZhY2luZyB0aGUgY2l0eSJ9LHsiaWNvbiI6InNwYSIsImV5ZWJyb3ciOiJZaW4gwrcgUHJlbmF0YWwiLCJ0aXRsZSI6Ikluw6hzIEdhcm5pZXIiLCJkZXNjcmlwdGlvbiI6IkEgZG91bGEgYW5kIHRlYWNoZXIgZm9yIHRlbiB5ZWFycywgSW7DqHMgc3VwcG9ydHMgbW90aGVycy10by1iZSBmcm9tIHByZWduYW5jeSB0byBwb3N0cGFydHVtLiBTaGUgYWxzbyB0ZWFjaGVzIHlpbiBhbmQgbWVkaXRhdGlvbiwgd2l0aCBhIHZvaWNlIHRoYXQgc2xvd3MgZXZlcnlvbmUgZG93bi4gSGVyIFN1bmRheSBzb3VuZCBiYXRocyBhcmUgYWx3YXlzIGZ1bGwuIiwiY3RhTGFiZWwiOiJIZXIgY2xhc3NlcyIsImN0YUhyZWYiOiIvZW4vY2xhc3Nlcy1hbmQtc2NoZWR1bGUuaHRtbCIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvcG9ydHJhaXQtaW5lcy1nYXJuaWVyLTZjMDk5NC9sYXJnZS53ZWJwIiwiaW1hZ2VBbHQiOiJJbsOocyBHYXJuaWVyIGhvbGRpbmcgd2hpdGUgZmxvd2VycyJ9XX0=" data-cms-block="corporate/feature-stack">
+</div>
 
-![Portrait of Claire Martin, wavy brown hair](https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-claire-martin-740b35/medium.webp)
-
-A former physiotherapist, Claire discovered yoga in 2008 to relieve a back worn out by years of handball. Trained in hatha yoga in Rishikesh and in therapeutic yoga in Paris, she opened Studio Prana in 2016. Her classes are precise, reassuring and always adapted to each person's limits.
-
-*Her classes: hatha and gentle hatha, private sessions.*
-
-## Thomas Roux — vinyasa flow
-
-![Thomas Roux sitting by the water facing the city](https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-thomas-roux-0c8e1e/medium.webp)
-
-A former engineer, Thomas found in vinyasa the energy and focus he was missing at the office. Trained in ashtanga in Mysore and in vinyasa in Barcelona, he offers creative, rhythmic sequences and plenty of humour. His 7:15 morning classes have a loyal following.
-
-*His classes: vinyasa flow and express vinyasa.*
-
-## Inès Garnier — yin and prenatal yoga
-
-![Inès Garnier holding a bunch of white flowers in a field](https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/medium.webp)
-
-A doula and yoga teacher for ten years, Inès supports mothers-to-be from pregnancy to postpartum. She also teaches yin yoga and meditation, with a voice that slows everyone down. Her Sunday evening sound baths are always full.
-
-*Her classes: yin, yin & meditation, prenatal yoga.*
+<div data-attrs="eyJ2YXJpYW50IjoibmF2eSIsInRpdGxlIjoiV2FudCB0byBwcmFjdGlzZSB3aXRoIHVzPyIsInN1YnRpdGxlIjoiWW91ciBmaXJzdCBjbGFzcyBpcyDigqwxMi4iLCJwcmltYXJ5Q3RhTGFiZWwiOiJCb29rIGEgdHJpYWwgY2xhc3MiLCJwcmltYXJ5Q3RhSHJlZiI6Ii9lbi9jb250YWN0Lmh0bWwiLCJzZWNvbmRhcnlDdGFMYWJlbCI6IiIsInNlY29uZGFyeUN0YUhyZWYiOiIifQ==" data-cms-block="corporate/cta-banner">
+</div>
