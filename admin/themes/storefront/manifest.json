@@ -2,6 +2,6 @@
   "id": "storefront",
   "name": "Storefront",
   "version": "0.1.1",
-  "apiVersion": "1.5.0",
+  "apiVersion": "1.6.0",
   "entry": "bundle.js"
 }
