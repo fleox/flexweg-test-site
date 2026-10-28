@@ -12,7 +12,10 @@
       "homePages": {},
       "menuTranslations": {},
       "showHeaderSwitcher": true,
-      "showFooterSwitcher": false
+      "showFooterSwitcher": false,
+      "lastPublishedLanguages": [
+        "en"
+      ]
     },
     "agentcms-rss": {
       "site": {
