@@ -1,0 +1,12 @@
+{
+  "id": "storage",
+  "connectorId": "git-pages",
+  "settings": {
+    "host": "github-pages",
+    "provider": "github",
+    "branch": "main",
+    "owner": "fleox",
+    "repo": "flexweg-test-site",
+    "siteUrl": "https://fleox.github.io/flexweg-test-site"
+  }
+}
