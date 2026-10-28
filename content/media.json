@@ -1,0 +1,50 @@
+[
+  {
+    "id": "jMR2a9n729kZK3TlNENV",
+    "name": "nenuphar-blanc-eau-calme.jpg",
+    "contentType": "image/webp",
+    "size": 204568,
+    "storageBase": "media/2026/10/nenuphar-blanc-eau-calme-97791e",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 5456
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 21696
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 91712
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 13602
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 25692
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/nenuphar-blanc-eau-calme-97791e/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 46410
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190849248,
+    "uploadedBy": "github:fleox"
+  }
+]
