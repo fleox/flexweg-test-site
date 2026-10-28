@@ -3,13 +3,14 @@ id: dQjnkUmwAlYPY7G97zSH
 type: page
 title: Tarifs
 slug: tarifs
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:33.493Z"
-updatedAt: "2026-10-28T12:48:03.090Z"
+updatedAt: "2026-10-28T12:48:05.455Z"
 excerpt: Cours à l'unité, cartes, abonnements et cours particuliers.
 seo: {"description":"Tarifs de Studio Prana : cours d'essai à 12 €, cartes 5 et 10 cours, abonnements dès 59 € par mois, cours particuliers."}
+publishedAt: "2026-10-28T12:48:05.455Z"
 ---
 
 Des formules simples, sans frais d'inscription. Le **premier cours d'essai coûte 12 €** et il est déduit si vous prenez une carte ou un abonnement dans la semaine.
