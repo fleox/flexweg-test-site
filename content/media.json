@@ -147,6 +147,54 @@
     "alt": "Fleur de nénuphar blanche au cœur jaune posée sur une eau sombre et immobile"
   },
   {
+    "id": "rwthcsMMISjjnZXWXPc2",
+    "name": "foret-de-pins.jpg",
+    "contentType": "image/webp",
+    "size": 1270974,
+    "storageBase": "media/2026/10/foret-de-pins-ba033d",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 19336
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 124224
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 562964
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 70226
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 176316
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 317908
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190876276,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "vLgQvJVTsoZQrCscDXZA",
     "name": "bol-the-citron-main.jpg",
     "contentType": "image/webp",
