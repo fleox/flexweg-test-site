@@ -1,0 +1,14 @@
+[
+  {
+    "id": "github:fleox",
+    "email": "fleox@users.noreply.github.com",
+    "role": "admin",
+    "disabled": false,
+    "preferences": {
+      "adminLocale": "en"
+    },
+    "createdBy": "github:fleox",
+    "displayName": "fleox",
+    "createdAt": 1793191197726
+  }
+]
