@@ -3,13 +3,14 @@ id: RfGuJ5boZ1SEajRPOoz7
 type: page
 title: Contact
 slug: contact
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:47.902Z"
-updatedAt: "2026-10-28T12:48:14.239Z"
+updatedAt: "2026-10-28T12:48:16.853Z"
 excerpt: Adresse, accès et formulaire de contact du studio.
 seo: {"description":"Contactez Studio Prana, 14 rue d'Austerlitz, Lyon 4e : réservez un cours d'essai ou un cours particulier."}
+publishedAt: "2026-10-28T12:48:16.853Z"
 ---
 
 Une question sur un cours, envie d'un cours d'essai ou d'un cours particulier ? Écrivez-nous, nous répondons sous 24 heures (hors dimanche).
