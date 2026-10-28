@@ -1,5 +1,53 @@
 [
   {
+    "id": "cpPReAVELSkcWXrFrCNa",
+    "name": "coucher-soleil-prairie-arbres.jpg",
+    "contentType": "image/webp",
+    "size": 1045510,
+    "storageBase": "media/2026/10/coucher-soleil-prairie-arbres-cba313",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 14826
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 93712
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 476814
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 52234
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 135628
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/coucher-soleil-prairie-arbres-cba313/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 272296
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190865273,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "jMR2a9n729kZK3TlNENV",
     "name": "nenuphar-blanc-eau-calme.jpg",
     "contentType": "image/webp",
