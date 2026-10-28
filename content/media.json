@@ -49,6 +49,54 @@
     "alt": "Portrait de Claire Martin, professeure de yoga, cheveux châtains ondulés"
   },
   {
+    "id": "33F2AxKVwECNS9lx4yoH",
+    "name": "portrait-ines-garnier.jpg",
+    "contentType": "image/webp",
+    "size": 259460,
+    "storageBase": "media/2026/10/portrait-ines-garnier-6c0994",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 6492
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 25088
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 110202
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 18088
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 38866
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/portrait-ines-garnier-6c0994/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 60724
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190903007,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "5URcpQTbo56i5cHTSGKB",
     "name": "canoe-lac-turquoise.jpg",
     "contentType": "image/webp",
