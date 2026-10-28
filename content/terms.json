@@ -50,7 +50,14 @@
     "name": "Débutants",
     "slug": "debutants",
     "createdAt": 1793191314477,
-    "updatedAt": 1793191314477
+    "updatedAt": 1793191513059,
+    "translations": {
+      "en": {
+        "slug": "beginners",
+        "name": "Beginners",
+        "description": ""
+      }
+    }
   },
   {
     "id": "kE7WYG9O4vsQ51HM3CQ7",
