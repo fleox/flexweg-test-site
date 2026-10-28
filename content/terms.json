@@ -35,7 +35,10 @@
     "name": "Pratique",
     "slug": "pratique",
     "createdAt": 1793191218000,
-    "updatedAt": 1793191218000,
-    "description": "Conseils de nos professeurs pour progresser sur le tapis, du premier cours aux pratiques plus avancées."
+    "updatedAt": 1793191220518,
+    "description": "Conseils de nos professeurs pour progresser sur le tapis, du premier cours aux pratiques plus avancées.",
+    "seo": {
+      "description": "Conseils de yoga des professeurs de Studio Prana à Lyon : débuter, choisir son cours, progresser."
+    }
   }
 ]
