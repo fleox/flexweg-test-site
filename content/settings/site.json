@@ -55,7 +55,7 @@
     "reading-time": {
       "enabled": true,
       "wordsPerMinute": 200,
-      "position": "both",
+      "position": "top",
       "style": "badge",
       "includePages": false,
       "minMinutes": 1,
