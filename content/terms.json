@@ -21,6 +21,15 @@
     }
   },
   {
+    "id": "kE7WYG9O4vsQ51HM3CQ7",
+    "type": "category",
+    "name": "Bien-être",
+    "slug": "bien-etre",
+    "createdAt": 1793191226907,
+    "updatedAt": 1793191226907,
+    "description": "Respiration, sommeil, rituels du quotidien : le yoga au-delà du tapis."
+  },
+  {
     "id": "mEN3xyWbF84RrUSvLrsY",
     "type": "category",
     "name": "Savoir-faire",
