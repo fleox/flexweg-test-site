@@ -5,7 +5,7 @@ window.__AGENTCMS_CONFIG__ = {
   "git": {
     "provider": "github",
     "owner": "fleox",
-    "repo": "flexweg-test-content",
+    "repo": "flexweg-test-site",
     "branch": "main",
     "contentDir": "content"
   }
