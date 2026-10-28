@@ -7,7 +7,7 @@ status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:47.902Z"
-updatedAt: "2026-10-28T13:12:45.410Z"
+updatedAt: "2026-10-28T13:13:16.867Z"
 excerpt: Adresse, accès et formulaire de contact du studio.
 seo: {"description":"Contactez Studio Prana, 14 rue d'Austerlitz, Lyon 4e : réservez un cours d'essai ou un cours particulier."}
 publishedAt: "2026-10-28T12:48:16.853Z"
