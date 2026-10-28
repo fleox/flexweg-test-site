@@ -7,7 +7,7 @@ status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:26.371Z"
-updatedAt: "2026-10-28T13:10:42.836Z"
+updatedAt: "2026-10-28T13:11:01.087Z"
 excerpt: Le planning de la semaine et la description de nos cours de hatha, vinyasa, yin et yoga prénatal.
 seo: {"description":"Planning des cours de yoga de Studio Prana à Lyon : hatha, vinyasa flow, yin et yoga prénatal, du lundi au dimanche."}
 publishedAt: "2026-10-28T12:48:00.812Z"
