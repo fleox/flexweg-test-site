@@ -49,6 +49,54 @@
     "alt": "Fleur de nénuphar blanche au cœur jaune posée sur une eau sombre et immobile"
   },
   {
+    "id": "vLgQvJVTsoZQrCscDXZA",
+    "name": "bol-the-citron-main.jpg",
+    "contentType": "image/webp",
+    "size": 159954,
+    "storageBase": "media/2026/10/bol-the-citron-main-e25ffb",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 2570
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 10220
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 88938
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 7126
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 16610
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 34490
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190859844,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "w3UdR8yEpCAXSagWN4AS",
     "name": "theiere-infusion-fleurs.jpg",
     "contentType": "image/webp",
