@@ -7,7 +7,7 @@ status: online
 authorId: "github:fleox"
 termIds: ["kE7WYG9O4vsQ51HM3CQ7","ZgA4rhKKUWdNeABoI46V","W6pHPB9I63HwTWb4aW8A"]
 createdAt: "2026-10-21T09:00:00.000Z"
-updatedAt: "2026-10-28T12:58:15.981Z"
+updatedAt: "2026-10-28T12:58:18.443Z"
 excerpt: "Un verre d'eau, six postures, une intention : quinze minutes pour bien démarrer la journée."
 heroMediaId: vLgQvJVTsoZQrCscDXZA
 primaryTermId: kE7WYG9O4vsQ51HM3CQ7
