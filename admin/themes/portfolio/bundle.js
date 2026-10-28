@@ -8979,8 +8979,13 @@ function yt({
 function wt(r) {
   return Wn(r.replace(/-([a-z])/g, (e, t) => t.toUpperCase()));
 }
-const Xt = "project-meta", Le = wt(Xt);
-function fl({ attrs: r, selected: e }) {
+const fl = {
+  rows: {
+    description: "Label / value columns of the project facts grid (up to 4 columns on desktop, stacked on mobile): [{ label, value }]. label is shown uppercase (SERVICES, YEAR, CLIENT…); value supports several lines separated by \\n. Rows with both fields empty are skipped; no rows = the block is hidden. A row labelled YEAR (or ANNÉE, JAHR, AÑO, ANO, JAAR, DATE, AN, 연도) sets the year shown in the post's header instead of the publication year.",
+    format: "array of objects"
+  }
+}, Xt = "project-meta", Le = wt(Xt);
+function pl({ attrs: r, selected: e }) {
   const { t } = V("theme-portfolio"), n = r.rows.map((o) => o.label).filter(Boolean).join(" · ");
   return /* @__PURE__ */ u(
     bt,
@@ -8997,7 +9002,7 @@ function fl({ attrs: r, selected: e }) {
     }
   );
 }
-function pl({ editor: r }) {
+function hl({ editor: r }) {
   const e = r.getAttributes(Le), t = { ...ut, ...e.attrs ?? {} };
   function n(a) {
     r.chain().updateAttributes(Le, { attrs: { ...t, ...a } }).run();
@@ -9033,18 +9038,18 @@ function pl({ editor: r }) {
     /* @__PURE__ */ u("button", { type: "button", onClick: i, className: "btn-secondary text-xs", children: "Add row" })
   ] });
 }
-const hl = yt({
+const ml = yt({
   subId: Xt,
   defaultAttrs: ut,
-  view: fl
-}), ml = {
+  view: pl
+}), gl = {
   id: `portfolio/${Xt}`,
   nodeName: Le,
   titleKey: "blocks.projectMeta.title",
   namespace: "theme-portfolio",
   icon: Xn,
   category: "layout",
-  extensions: [hl],
+  extensions: [ml],
   insert: (r) => {
     r.focus().insertContent({
       type: Le,
@@ -9052,9 +9057,25 @@ const hl = yt({
     }).run();
   },
   isActive: (r) => r.isActive(Le),
-  inspector: (r) => /* @__PURE__ */ u(pl, { editor: r.editor })
+  attrsSchema: fl,
+  inspector: (r) => /* @__PURE__ */ u(hl, { editor: r.editor })
+}, bl = {
+  eyebrow: { description: "Small uppercase label above the headline (empty = hidden)." },
+  headline: {
+    description: "Italic serif headline of the text column (empty = hidden). The block is hidden when headline, body and imageUrl are all empty."
+  },
+  body: { description: "Paragraph under the headline, plain text (empty = hidden)." },
+  step1Label: { description: 'Label of the first process step, e.g. "01. RESEARCH". A step is hidden when its label and text are both empty.' },
+  step1Text: { description: "Text of the first process step." },
+  step2Label: { description: 'Label of the second process step, e.g. "02. EXECUTION".' },
+  step2Text: { description: "Text of the second process step." },
+  imageUrl: {
+    description: "Portrait (4:5) image in the right column — a full image URL, e.g. a media variant URL from `media upload` (formats.<name>.url) or any external URL. Empty = text only.",
+    format: "URL"
+  },
+  imageAlt: { description: "Alt text of the image." }
 }, Qt = "storytelling", ze = wt(Qt);
-function gl({ attrs: r, selected: e }) {
+function yl({ attrs: r, selected: e }) {
   const { t } = V("theme-portfolio");
   return /* @__PURE__ */ u(
     bt,
@@ -9071,7 +9092,7 @@ function gl({ attrs: r, selected: e }) {
     }
   );
 }
-function bl({ editor: r }) {
+function wl({ editor: r }) {
   const e = r.getAttributes(ze), t = { ...ft, ...e.attrs ?? {} };
   function n(o) {
     r.chain().updateAttributes(ze, { attrs: { ...t, ...o } }).run();
@@ -9117,18 +9138,18 @@ function bl({ editor: r }) {
     ] })
   ] });
 }
-const yl = yt({
+const vl = yt({
   subId: Qt,
   defaultAttrs: ft,
-  view: gl
-}), wl = {
+  view: yl
+}), xl = {
   id: `portfolio/${Qt}`,
   nodeName: ze,
   titleKey: "blocks.storytelling.title",
   namespace: "theme-portfolio",
   icon: Zn,
   category: "layout",
-  extensions: [yl],
+  extensions: [vl],
   insert: (r) => {
     r.focus().insertContent({
       type: ze,
@@ -9136,9 +9157,32 @@ const yl = yt({
     }).run();
   },
   isActive: (r) => r.isActive(ze),
-  inspector: (r) => /* @__PURE__ */ u(bl, { editor: r.editor })
+  attrsSchema: bl,
+  inspector: (r) => /* @__PURE__ */ u(wl, { editor: r.editor })
+}, kl = {
+  mainImageUrl: {
+    description: "Large 8-column image (4:3) of the top row — a full image URL, e.g. a media variant URL from `media upload` (formats.<name>.url) or any external URL. Spans the full row when both sub images are empty. The whole block is hidden when every image URL is empty.",
+    format: "URL"
+  },
+  mainImageAlt: { description: "Alt text of the main image." },
+  subTopImageUrl: {
+    description: "Upper of the two stacked 4-column images right of the main one — a full image URL, e.g. a media variant URL from `media upload` (formats.<name>.url) or any external URL. Empty = an empty grey cell while the other sub image is set.",
+    format: "URL"
+  },
+  subTopImageAlt: { description: "Alt text of the upper sub image." },
+  subTopGrayscale: { description: "Render the upper sub image in grayscale (default true)." },
+  subBottomImageUrl: {
+    description: "Lower of the two stacked 4-column images — a full image URL, e.g. a media variant URL from `media upload` (formats.<name>.url) or any external URL. Empty = an empty grey cell while the upper sub image is set.",
+    format: "URL"
+  },
+  subBottomImageAlt: { description: "Alt text of the lower sub image." },
+  wideImageUrl: {
+    description: "Full-width 16:9 image below the top row — a full image URL, e.g. a media variant URL from `media upload` (formats.<name>.url) or any external URL. Empty = no wide row.",
+    format: "URL"
+  },
+  wideImageAlt: { description: "Alt text of the wide image." }
 }, Zt = "bento-gallery", Be = wt(Zt);
-function vl({ attrs: r, selected: e }) {
+function Sl({ attrs: r, selected: e }) {
   const { t } = V("theme-portfolio"), n = [
     r.mainImageUrl,
     r.subTopImageUrl,
@@ -9164,7 +9208,7 @@ function vl({ attrs: r, selected: e }) {
     }
   );
 }
-function xl({ editor: r }) {
+function El({ editor: r }) {
   const e = r.getAttributes(Be), t = { ...pt, ...e.attrs ?? {} };
   function n(i) {
     r.chain().updateAttributes(Be, { attrs: { ...t, ...i } }).run();
@@ -9210,18 +9254,18 @@ function xl({ editor: r }) {
     o("wideImageUrl", "wideImageAlt", "Wide image (col-span-12, 800px)")
   ] });
 }
-const kl = yt({
+const Cl = yt({
   subId: Zt,
   defaultAttrs: pt,
-  view: vl
-}), Sl = {
+  view: Sl
+}), Nl = {
   id: `portfolio/${Zt}`,
   nodeName: Be,
   titleKey: "blocks.bentoGallery.title",
   namespace: "theme-portfolio",
   icon: Qn,
   category: "media",
-  extensions: [kl],
+  extensions: [Cl],
   insert: (r) => {
     r.focus().insertContent({
       type: Be,
@@ -9229,9 +9273,20 @@ const kl = yt({
     }).run();
   },
   isActive: (r) => r.isActive(Be),
-  inspector: (r) => /* @__PURE__ */ u(xl, { editor: r.editor })
+  attrsSchema: kl,
+  inspector: (r) => /* @__PURE__ */ u(El, { editor: r.editor })
+}, Al = {
+  eyebrow: { description: 'Small uppercase label above the title (sample "NEXT PROJECT"; empty = blank label).' },
+  title: {
+    description: "Big serif title of the full-width banner (usually the next project's name). Empty = the block is hidden."
+  },
+  href: {
+    description: 'Link of the whole banner: a site path to the next project ("/category/project.html") or a URL. Empty = "#".',
+    format: "site path or URL"
+  },
+  ctaLabel: { description: 'Uppercase call-to-action text next to the arrow (sample "VIEW CASE STUDY").' }
 }, en = "next-project", Pe = wt(en);
-function El({ attrs: r, selected: e }) {
+function Tl({ attrs: r, selected: e }) {
   const { t } = V("theme-portfolio");
   return /* @__PURE__ */ u(
     bt,
@@ -9248,7 +9303,7 @@ function El({ attrs: r, selected: e }) {
     }
   );
 }
-function Cl({ editor: r }) {
+function Il({ editor: r }) {
   const e = r.getAttributes(Pe), t = { ...ht, ...e.attrs ?? {} };
   function n(o) {
     r.chain().updateAttributes(Pe, { attrs: { ...t, ...o } }).run();
@@ -9272,18 +9327,18 @@ function Cl({ editor: r }) {
     ] })
   ] });
 }
-const Nl = yt({
+const Ml = yt({
   subId: en,
   defaultAttrs: ht,
-  view: El
-}), Al = {
+  view: Tl
+}), Ol = {
   id: `portfolio/${en}`,
   nodeName: Pe,
   titleKey: "blocks.nextProject.title",
   namespace: "theme-portfolio",
   icon: Kn,
   category: "layout",
-  extensions: [Nl],
+  extensions: [Ml],
   insert: (r) => {
     r.focus().insertContent({
       type: Pe,
@@ -9291,7 +9346,8 @@ const Nl = yt({
     }).run();
   },
   isActive: (r) => r.isActive(Pe),
-  inspector: (r) => /* @__PURE__ */ u(Cl, { editor: r.editor })
+  attrsSchema: Al,
+  inspector: (r) => /* @__PURE__ */ u(Il, { editor: r.editor })
 }, Dn = {
   id: "portfolio",
   name: "Portfolio",
@@ -9338,10 +9394,10 @@ const Nl = yt({
     notFound: Lo
   },
   blocks: [
-    ml,
-    wl,
-    Sl,
-    Al
+    gl,
+    xl,
+    Nl,
+    Ol
   ],
   register(r) {
     r.addFilter("post.html.body", (e) => Ei(e));
