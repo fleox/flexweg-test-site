@@ -13,6 +13,16 @@
       "menuTranslations": {},
       "showHeaderSwitcher": true,
       "showFooterSwitcher": false
+    },
+    "agentcms-rss": {
+      "site": {
+        "enabled": false,
+        "itemCount": 20,
+        "excludedTermIds": [],
+        "addToFooter": false,
+        "lastLocalePaths": []
+      },
+      "categoryFeeds": []
     }
   },
   "activeThemeId": "corporate",
