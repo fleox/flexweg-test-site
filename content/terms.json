@@ -26,8 +26,11 @@
     "name": "Bien-être",
     "slug": "bien-etre",
     "createdAt": 1793191226907,
-    "updatedAt": 1793191226907,
-    "description": "Respiration, sommeil, rituels du quotidien : le yoga au-delà du tapis."
+    "updatedAt": 1793191229366,
+    "description": "Respiration, sommeil, rituels du quotidien : le yoga au-delà du tapis.",
+    "seo": {
+      "description": "Rituels, respiration et bien-être au quotidien : les conseils de Studio Prana, studio de yoga à Lyon."
+    }
   },
   {
     "id": "mEN3xyWbF84RrUSvLrsY",
