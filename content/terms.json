@@ -9,18 +9,6 @@
     "description": "Nos recettes faciles pour prolonger le plaisir du pain à la maison."
   },
   {
-    "id": "Sk2piNonbrQkbHqPb9NY",
-    "type": "category",
-    "name": "Actualités",
-    "slug": "actualites",
-    "createdAt": 1793190680606,
-    "updatedAt": 1793190683114,
-    "description": "Les nouvelles du fournil : produits de saison, événements et horaires exceptionnels.",
-    "seo": {
-      "description": "Toutes les actualités du Fournil de Léa, boulangerie artisanale au levain."
-    }
-  },
-  {
     "id": "W6pHPB9I63HwTWb4aW8A",
     "type": "tag",
     "name": "Respiration",
