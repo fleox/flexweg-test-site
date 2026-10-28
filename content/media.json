@@ -1,5 +1,53 @@
 [
   {
+    "id": "5URcpQTbo56i5cHTSGKB",
+    "name": "canoe-lac-turquoise.jpg",
+    "contentType": "image/webp",
+    "size": 289886,
+    "storageBase": "media/2026/10/canoe-lac-turquoise-3803d8",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 7468
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 29500
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 131344
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 18608
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 37056
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/canoe-lac-turquoise-3803d8/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 65910
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190887058,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "EAv31EvFG9HPqwhR51K1",
     "name": "sommets-mer-de-nuages.jpg",
     "contentType": "image/webp",
