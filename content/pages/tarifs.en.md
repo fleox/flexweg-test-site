@@ -5,24 +5,11 @@ excerpt: Single classes, passes, memberships and private sessions.
 seo: {"description":"Studio Prana prices: €12 trial class, 5 and 10-class passes, memberships from €59 a month, private sessions."}
 ---
 
-Simple options with no registration fee. The **first trial class costs €12** and is deducted if you buy a class pass or a membership within the week.
-
-<div data-cols="2" data-cms-block="agentcms-blocks/columns">
-<div data-cms-column=""><h3>Pay as you go</h3><p><strong>Single class:</strong> €20</p><p><strong>5-class pass:</strong> €90 (valid 3 months)</p><p><strong>10-class pass:</strong> €170 (valid 6 months)</p><p>Passes are personal and valid for every class, prenatal included.</p></div><div data-cms-column=""><h3>Memberships</h3><p><strong>1 class a week:</strong> €59 / month</p><p><strong>Unlimited:</strong> €89 / month</p><p><strong>Unlimited, yearly:</strong> €890 (two months free)</p><p>3-month minimum commitment, then cancel any time with one month's notice.</p></div>
+<div data-attrs="eyJleWVicm93IjoiUHJpY2VzIiwidGl0bGUiOiJTaW1wbGUgb3B0aW9ucywgbm8gcmVnaXN0cmF0aW9uIGZlZSIsInN1YnRpdGxlIjoiVGhlIGZpcnN0IHRyaWFsIGNsYXNzIGNvc3RzIOKCrDEyIGFuZCBpcyBkZWR1Y3RlZCBpZiB5b3UgYnV5IGEgcGFzcyBvciBhIG1lbWJlcnNoaXAgd2l0aGluIHRoZSB3ZWVrLiIsInByaW1hcnlDdGFMYWJlbCI6IkJvb2sgYSB0cmlhbCBjbGFzcyIsInByaW1hcnlDdGFIcmVmIjoiL2VuL2NvbnRhY3QuaHRtbCIsInNlY29uZGFyeUN0YUxhYmVsIjoiU2VlIHRoZSBzY2hlZHVsZSIsInNlY29uZGFyeUN0YUhyZWYiOiIvZW4vY2xhc3Nlcy1hbmQtc2NoZWR1bGUuaHRtbCIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvYm9sLXRoZS1jaXRyb24tbWFpbi1lMjVmZmIvbGFyZ2Uud2VicCIsImltYWdlQWx0IjoiSGFuZCBob2xkaW5nIGEgYm93bCBvZiBsZW1vbiB0ZWEifQ==" data-cms-block="corporate/hero-split">
 </div>
 
-## Reduced rates
+<div data-attrs="eyJleWVicm93IjoiT3VyIG9wdGlvbnMiLCJ0aXRsZSI6IkNob29zZSB5b3VyIHBhY2UiLCJzdWJ0aXRsZSI6IiIsInNlcnZpY2VzIjpbeyJpY29uIjoiY29uZmlybWF0aW9uX251bWJlciIsInRpdGxlIjoiUGF5IGFzIHlvdSBnbyIsImFjY2VudCI6ZmFsc2UsImN0YUxhYmVsIjoiIiwiY3RhSHJlZiI6IiIsImRlc2NyaXB0aW9uIjoiU2luZ2xlIGNsYXNzIOKCrDIwIMK3IDUtY2xhc3MgcGFzcyDigqw5MCAoMyBtb250aHMpIMK3IDEwLWNsYXNzIHBhc3Mg4oKsMTcwICg2IG1vbnRocykuIFZhbGlkIGZvciBldmVyeSBjbGFzcywgcHJlbmF0YWwgaW5jbHVkZWQuIn0seyJpY29uIjoiYWxsX2luY2x1c2l2ZSIsInRpdGxlIjoiTWVtYmVyc2hpcHMiLCJhY2NlbnQiOnRydWUsImN0YUxhYmVsIjoiQm9vayIsImN0YUhyZWYiOiIvZW4vY29udGFjdC5odG1sIiwiZGVzY3JpcHRpb24iOiIxIGNsYXNzIGEgd2VlayDigqw1OS9tb250aCDCtyBVbmxpbWl0ZWQg4oKsODkvbW9udGggwrcgVW5saW1pdGVkIHllYXJseSDigqw4OTAgKHR3byBtb250aHMgZnJlZSkuIDMtbW9udGggbWluaW11bSwgdGhlbiBvbmUgbW9udGgncyBub3RpY2UuIn0seyJpY29uIjoicGVyc29uIiwidGl0bGUiOiJQcml2YXRlIHNlc3Npb25zIiwiYWNjZW50IjpmYWxzZSwiY3RhTGFiZWwiOiIiLCJjdGFIcmVmIjoiIiwiZGVzY3JpcHRpb24iOiJBdCB0aGUgc3R1ZGlvIG9yIGF0IGhvbWUsIGFsb25lIG9yIGFzIGEgcGFpcjog4oKsNjUgZm9yIG9uZSBob3VyLCDigqwzMDAgZm9yIGZpdmUgc2Vzc2lvbnMuIn1dfQ==" data-cms-block="corporate/services-grid">
+</div>
 
-Students, jobseekers and people over 65: **20% off** every option, with proof.
-
-## Private sessions
-
-At home or at the studio, alone or as a pair: **€65** for a one-hour session, **€300** for five sessions. Ideal to start with confidence, return after an injury or deepen your practice.
-
-## Gift voucher
-
-Give a 5-class pass or a private session: we prepare a lovely gift voucher to collect at the studio or receive by email.
-
-![Hand holding a bowl of hot tea with lemon slices](https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/large.webp)
-
-We accept cards, cash, cheques and holiday vouchers (chèques-vacances). Some works councils refund part of the membership: ask us for an invoice. [Book a trial class](/en/contact.html)
+<div data-attrs="eyJleWVicm93IjoiIiwidGl0bGUiOiJHb29kIHRvIGtub3ciLCJzdWJ0aXRsZSI6IiIsImFsdGVybmF0ZSI6dHJ1ZSwiZmVhdHVyZXMiOlt7Imljb24iOiJwZXJjZW50IiwiZXllYnJvdyI6IjIwJSBvZmYiLCJ0aXRsZSI6IlJlZHVjZWQgcmF0ZXMiLCJkZXNjcmlwdGlvbiI6IlN0dWRlbnRzLCBqb2JzZWVrZXJzIGFuZCBwZW9wbGUgb3ZlciA2NTogMjAlIG9mZiBldmVyeSBvcHRpb24sIHdpdGggcHJvb2YuIFdlIGFjY2VwdCBjYXJkcywgY2FzaCwgY2hlcXVlcyBhbmQgaG9saWRheSB2b3VjaGVyczsgaW52b2ljZXMgb24gcmVxdWVzdCBmb3IgeW91ciB3b3JrcyBjb3VuY2lsLiIsImN0YUxhYmVsIjoiIiwiY3RhSHJlZiI6IiIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvZmVtbWUtY2hhbXAtZG9yZS1hYzg0MjcvbGFyZ2Uud2VicCIsImltYWdlQWx0IjoiV29tYW4gd2l0aCBsb25nIGhhaXIgaW4gYSBnb2xkZW4gZmllbGQifSx7Imljb24iOiJyZWRlZW0iLCJleWVicm93IjoiQSBnaWZ0IGlkZWEiLCJ0aXRsZSI6IkdpZnQgdm91Y2hlciIsImRlc2NyaXB0aW9uIjoiR2l2ZSBhIDUtY2xhc3MgcGFzcyBvciBhIHByaXZhdGUgc2Vzc2lvbjogd2UgcHJlcGFyZSBhIGxvdmVseSBnaWZ0IHZvdWNoZXIgdG8gY29sbGVjdCBhdCB0aGUgc3R1ZGlvIG9yIHJlY2VpdmUgYnkgZW1haWwuIiwiY3RhTGFiZWwiOiJPcmRlciIsImN0YUhyZWYiOiIvZW4vY29udGFjdC5odG1sIiwiaW1hZ2VVcmwiOiIvbWVkaWEvMjAyNi8xMC90aGVpZXJlLWluZnVzaW9uLWZsZXVycy1lNTQ4ZGYvbGFyZ2Uud2VicCIsImltYWdlQWx0IjoiVGVhcG90IG9mIGhlcmJhbCB0ZWEgYW5kIHllbGxvdyBmbG93ZXJzIn1dfQ==" data-cms-block="corporate/feature-stack">
+</div>
