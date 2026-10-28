@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fleox.github.io/flexweg-test-site/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio Prana — EN</title>
+    <link>https://fleox.github.io/flexweg-test-site/en/index.html</link>
+    <description>Studio de yoga à Lyon (Croix-Rousse) : hatha, vinyasa, yin et yoga prénatal, en petits groupes, pour tous les niveaux.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Oct 2026 12:58:54 GMT</lastBuildDate>
+    <atom:link href="https://fleox.github.io/flexweg-test-site/en/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Three morning rituals to start the day gently</title>
+      <link>https://fleox.github.io/flexweg-test-site/en/wellbeing/three-morning-rituals.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/en/wellbeing/three-morning-rituals.html</guid>
+      <category>Wellbeing</category>
+      <description><![CDATA[A glass of water, six postures, one intention: fifteen minutes to start the day well.]]></description>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yin yoga, the art of slowing down as the days get shorter</title>
+      <link>https://fleox.github.io/flexweg-test-site/en/practice/yin-yoga-art-of-slowing-down.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/en/practice/yin-yoga-art-of-slowing-down.html</guid>
+      <category>Practice</category>
+      <description><![CDATA[Floor postures held three to five minutes to release deep tissue and quiet the mind.]]></description>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starting yoga after 40: our tips for a calm first class</title>
+      <link>https://fleox.github.io/flexweg-test-site/en/practice/starting-yoga-after-40.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/en/practice/starting-yoga-after-40.html</guid>
+      <category>Practice</category>
+      <description><![CDATA[Flexibility is not a prerequisite, it is a result. Our advice for walking into your first class without worrying.]]></description>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

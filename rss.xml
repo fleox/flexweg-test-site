@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fleox.github.io/flexweg-test-site/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio Prana</title>
+    <link>https://fleox.github.io/flexweg-test-site/</link>
+    <description>Studio de yoga à Lyon (Croix-Rousse) : hatha, vinyasa, yin et yoga prénatal, en petits groupes, pour tous les niveaux.</description>
+    <language>fr</language>
+    <lastBuildDate>Wed, 28 Oct 2026 12:58:54 GMT</lastBuildDate>
+    <atom:link href="https://fleox.github.io/flexweg-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trois rituels du matin pour commencer la journée en douceur</title>
+      <link>https://fleox.github.io/flexweg-test-site/bien-etre/trois-rituels-du-matin.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/bien-etre/trois-rituels-du-matin.html</guid>
+      <category>Bien-être</category>
+      <description><![CDATA[Un verre d'eau, six postures, une intention : quinze minutes pour bien démarrer la journée.]]></description>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/large.webp" length="34490" type="image/webp"/>
+    </item>
+    <item>
+      <title>Le yin yoga, l&apos;art de ralentir quand les jours raccourcissent</title>
+      <link>https://fleox.github.io/flexweg-test-site/pratique/yin-yoga-art-de-ralentir.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/pratique/yin-yoga-art-de-ralentir.html</guid>
+      <category>Pratique</category>
+      <description><![CDATA[Des postures au sol tenues trois à cinq minutes pour relâcher les tissus profonds et apaiser l'esprit.]]></description>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/foret-de-pins-ba033d/large.webp" length="317908" type="image/webp"/>
+    </item>
+    <item>
+      <title>Débuter le yoga après 40 ans : nos conseils pour un premier cours serein</title>
+      <link>https://fleox.github.io/flexweg-test-site/pratique/debuter-le-yoga-apres-40-ans.html</link>
+      <guid isPermaLink="true">https://fleox.github.io/flexweg-test-site/pratique/debuter-le-yoga-apres-40-ans.html</guid>
+      <category>Pratique</category>
+      <description><![CDATA[La souplesse n'est pas un prérequis mais une conséquence. Nos conseils pour aborder votre premier cours sans appréhension.]]></description>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://fleox.github.io/flexweg-test-site/media/2026/10/silhouette-femme-lumiere-couchant-21f495/large.webp" length="29636" type="image/webp"/>
+    </item>
+  </channel>
+</rss>
