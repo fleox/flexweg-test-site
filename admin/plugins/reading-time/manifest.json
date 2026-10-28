@@ -1,0 +1,8 @@
+{
+  "id": "reading-time",
+  "name": "Reading Time",
+  "version": "1.0.0",
+  "apiVersion": "1.5.0",
+  "entry": "bundle.js",
+  "kind": "plugin"
+}
