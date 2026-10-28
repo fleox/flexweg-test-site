@@ -1,4 +1,7 @@
 {
   "baseUrl": "https://fleox.github.io/flexweg-test-site",
+  "title": "Studio Prana",
+  "description": "Studio de yoga à Lyon (Croix-Rousse) : hatha, vinyasa, yin et yoga prénatal, en petits groupes, pour tous les niveaux.",
+  "language": "fr",
   "id": "site"
 }
