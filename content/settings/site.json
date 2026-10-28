@@ -38,9 +38,12 @@
       "excludedTermIds": [],
       "minQueryLength": 2,
       "maxResults": 20,
-      "lastIndexHash": "9dbc9c43a968828828f9260d51cd777f79bcfb4bddb3cd2b36ae686ea75ecd7e",
-      "lastRuntimeHash": "1970354f674b6da4b937f79ce29bd7dff9b371a33288858e17ec5f28a3191987",
-      "lastIndexedAt": 1793193202119
+      "lastIndexHash": "ee423227b33fc904038b567ffe28750a8363c9d85ee0d57139997b7db3925cb3",
+      "lastRuntimeHash": "d49a4085ce5763bd2133ffa23ddce0a884a91a8606a7b36bb0976834b7b729f6",
+      "lastIndexedAt": 1793194851677,
+      "lastLocalePaths": [
+        "en/search-index.json"
+      ]
     },
     "agentcms-favicon": {
       "enabled": true,
