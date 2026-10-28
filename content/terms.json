@@ -26,10 +26,20 @@
     "name": "Bien-être",
     "slug": "bien-etre",
     "createdAt": 1793191226907,
-    "updatedAt": 1793191229366,
+    "updatedAt": 1793191248064,
     "description": "Respiration, sommeil, rituels du quotidien : le yoga au-delà du tapis.",
     "seo": {
       "description": "Rituels, respiration et bien-être au quotidien : les conseils de Studio Prana, studio de yoga à Lyon."
+    },
+    "translations": {
+      "en": {
+        "slug": "wellbeing",
+        "name": "Wellbeing",
+        "description": "Breathing, sleep, daily rituals: yoga beyond the mat.",
+        "seo": {
+          "description": "Rituals, breathing and everyday wellbeing: advice from Studio Prana, yoga studio in Lyon."
+        }
+      }
     }
   },
   {
