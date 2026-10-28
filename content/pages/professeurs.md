@@ -7,7 +7,7 @@ status: draft
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:40.722Z"
-updatedAt: "2026-10-28T12:43:39.773Z"
+updatedAt: "2026-10-28T12:48:07.945Z"
 excerpt: Claire, Thomas et Inès, l'équipe de Studio Prana.
 seo: {"description":"Rencontrez les professeurs de Studio Prana à Lyon : Claire Martin (hatha), Thomas Roux (vinyasa) et Inès Garnier (yin et prénatal)."}
 ---
