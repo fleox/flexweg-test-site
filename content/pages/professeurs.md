@@ -3,13 +3,14 @@ id: 37MdcMFNAYWDS1Qju96v
 type: page
 title: Professeurs
 slug: professeurs
-status: draft
+status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:40.722Z"
-updatedAt: "2026-10-28T12:48:07.945Z"
+updatedAt: "2026-10-28T12:48:11.875Z"
 excerpt: Claire, Thomas et Inès, l'équipe de Studio Prana.
 seo: {"description":"Rencontrez les professeurs de Studio Prana à Lyon : Claire Martin (hatha), Thomas Roux (vinyasa) et Inès Garnier (yin et prénatal)."}
+publishedAt: "2026-10-28T12:48:11.875Z"
 ---
 
 Trois professeurs, trois sensibilités, une même exigence : que chacun reparte de son cours avec un corps plus libre et un esprit plus calme. Tous sont certifiés (500 heures minimum) et se forment chaque année.
