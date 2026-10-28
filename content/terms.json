@@ -1,14 +1,5 @@
 [
   {
-    "id": "3bD8ZdoPV7QpNXbK9O0U",
-    "type": "category",
-    "name": "Recettes",
-    "slug": "recettes",
-    "createdAt": 1793190696074,
-    "updatedAt": 1793190696074,
-    "description": "Nos recettes faciles pour prolonger le plaisir du pain à la maison."
-  },
-  {
     "id": "W6pHPB9I63HwTWb4aW8A",
     "type": "tag",
     "name": "Respiration",
