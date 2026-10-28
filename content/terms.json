@@ -47,10 +47,20 @@
     "name": "Pratique",
     "slug": "pratique",
     "createdAt": 1793191218000,
-    "updatedAt": 1793191220518,
+    "updatedAt": 1793191241330,
     "description": "Conseils de nos professeurs pour progresser sur le tapis, du premier cours aux pratiques plus avancées.",
     "seo": {
       "description": "Conseils de yoga des professeurs de Studio Prana à Lyon : débuter, choisir son cours, progresser."
+    },
+    "translations": {
+      "en": {
+        "slug": "practice",
+        "name": "Practice",
+        "description": "Advice from our teachers to progress on the mat, from your first class to more advanced practice.",
+        "seo": {
+          "description": "Yoga advice from Studio Prana's teachers in Lyon: getting started, choosing a class, progressing."
+        }
+      }
     }
   }
 ]
