@@ -16,10 +16,10 @@
     },
     "agentcms-rss": {
       "site": {
-        "enabled": false,
+        "enabled": true,
         "itemCount": 20,
         "excludedTermIds": [],
-        "addToFooter": false,
+        "addToFooter": true,
         "lastLocalePaths": []
       },
       "categoryFeeds": []
