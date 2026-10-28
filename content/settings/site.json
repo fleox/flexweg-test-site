@@ -3,5 +3,17 @@
   "title": "Studio Prana",
   "description": "Studio de yoga à Lyon (Croix-Rousse) : hatha, vinyasa, yin et yoga prénatal, en petits groupes, pour tous les niveaux.",
   "language": "fr",
+  "pluginConfigs": {
+    "agentcms-multilang": {
+      "primaryLanguage": "fr",
+      "enabledLanguages": [
+        "en"
+      ],
+      "homePages": {},
+      "menuTranslations": {},
+      "showHeaderSwitcher": true,
+      "showFooterSwitcher": false
+    }
+  },
   "id": "site"
 }
