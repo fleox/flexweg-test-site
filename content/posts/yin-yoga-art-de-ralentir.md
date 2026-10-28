@@ -7,7 +7,7 @@ status: draft
 authorId: "github:fleox"
 termIds: ["mUETM2qBz5TGH0PVmKmD","WwLAcxfnPJSdP0w7BQOk","W6pHPB9I63HwTWb4aW8A"]
 createdAt: "2026-10-07T09:00:00.000Z"
-updatedAt: "2026-10-28T12:44:31.853Z"
+updatedAt: "2026-10-28T12:48:24.388Z"
 excerpt: Des postures au sol tenues trois à cinq minutes pour relâcher les tissus profonds et apaiser l'esprit.
 heroMediaId: rwthcsMMISjjnZXWXPc2
 primaryTermId: mUETM2qBz5TGH0PVmKmD
