@@ -7,30 +7,17 @@ status: online
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:33.493Z"
-updatedAt: "2026-10-28T12:58:43.202Z"
+updatedAt: "2026-10-28T13:11:19.048Z"
 excerpt: Cours à l'unité, cartes, abonnements et cours particuliers.
 seo: {"description":"Tarifs de Studio Prana : cours d'essai à 12 €, cartes 5 et 10 cours, abonnements dès 59 € par mois, cours particuliers."}
 publishedAt: "2026-10-28T12:48:05.455Z"
 ---
 
-Des formules simples, sans frais d'inscription. Le **premier cours d'essai coûte 12 €** et il est déduit si vous prenez une carte ou un abonnement dans la semaine.
-
-<div data-cols="2" data-cms-block="agentcms-blocks/columns">
-<div data-cms-column=""><h3>Sans engagement</h3><p><strong>Cours à l'unité :</strong> 20 €</p><p><strong>Carte 5 cours :</strong> 90 € (valable 3 mois)</p><p><strong>Carte 10 cours :</strong> 170 € (valable 6 mois)</p><p>Les cartes sont nominatives et valables sur tous les cours, y compris le prénatal.</p></div><div data-cms-column=""><h3>Abonnements</h3><p><strong>1 cours par semaine :</strong> 59 € / mois</p><p><strong>Illimité :</strong> 89 € / mois</p><p><strong>Illimité annuel :</strong> 890 € (deux mois offerts)</p><p>Engagement de 3 mois minimum, puis résiliable à tout moment avec un mois de préavis.</p></div>
+<div data-attrs="eyJleWVicm93IjoiVGFyaWZzIiwidGl0bGUiOiJEZXMgZm9ybXVsZXMgc2ltcGxlcywgc2FucyBmcmFpcyBkJ2luc2NyaXB0aW9uIiwic3VidGl0bGUiOiJMZSBwcmVtaWVyIGNvdXJzIGQnZXNzYWkgY2/Du3RlIDEyIOKCrCBldCBpbCBlc3QgZMOpZHVpdCBzaSB2b3VzIHByZW5leiB1bmUgY2FydGUgb3UgdW4gYWJvbm5lbWVudCBkYW5zIGxhIHNlbWFpbmUuIiwicHJpbWFyeUN0YUxhYmVsIjoiUsOpc2VydmVyIHVuIGNvdXJzIGQnZXNzYWkiLCJwcmltYXJ5Q3RhSHJlZiI6Ii9jb250YWN0Lmh0bWwiLCJzZWNvbmRhcnlDdGFMYWJlbCI6IlZvaXIgbGVzIGhvcmFpcmVzIiwic2Vjb25kYXJ5Q3RhSHJlZiI6Ii9jb3Vycy1ldC1ob3JhaXJlcy5odG1sIiwiaW1hZ2VVcmwiOiIvbWVkaWEvMjAyNi8xMC9ib2wtdGhlLWNpdHJvbi1tYWluLWUyNWZmYi9sYXJnZS53ZWJwIiwiaW1hZ2VBbHQiOiJNYWluIHRlbmFudCB1biBib2wgZGUgdGjDqSBhdSBjaXRyb24ifQ==" data-cms-block="corporate/hero-split">
 </div>
 
-## Tarifs réduits
+<div data-attrs="eyJleWVicm93IjoiTm9zIGZvcm11bGVzIiwidGl0bGUiOiJDaG9pc2lzc2V6IHZvdHJlIHJ5dGhtZSIsInN1YnRpdGxlIjoiIiwic2VydmljZXMiOlt7Imljb24iOiJjb25maXJtYXRpb25fbnVtYmVyIiwidGl0bGUiOiJTYW5zIGVuZ2FnZW1lbnQiLCJhY2NlbnQiOmZhbHNlLCJjdGFMYWJlbCI6IiIsImN0YUhyZWYiOiIiLCJkZXNjcmlwdGlvbiI6IkNvdXJzIMOgIGwndW5pdMOpIDIwIOKCrCDCtyBDYXJ0ZSA1IGNvdXJzIDkwIOKCrCAoMyBtb2lzKSDCtyBDYXJ0ZSAxMCBjb3VycyAxNzAg4oKsICg2IG1vaXMpLiBWYWxhYmxlcyBzdXIgdG91cyBsZXMgY291cnMsIHByw6luYXRhbCBjb21wcmlzLiJ9LHsiaWNvbiI6ImFsbF9pbmNsdXNpdmUiLCJ0aXRsZSI6IkFib25uZW1lbnRzIiwiYWNjZW50Ijp0cnVlLCJjdGFMYWJlbCI6IlLDqXNlcnZlciIsImN0YUhyZWYiOiIvY29udGFjdC5odG1sIiwiZGVzY3JpcHRpb24iOiIxIGNvdXJzIHBhciBzZW1haW5lIDU5IOKCrC9tb2lzIMK3IElsbGltaXTDqSA4OSDigqwvbW9pcyDCtyBJbGxpbWl0w6kgYW5udWVsIDg5MCDigqwgKGRldXggbW9pcyBvZmZlcnRzKS4gMyBtb2lzIG1pbmltdW0sIHB1aXMgcHLDqWF2aXMgZCd1biBtb2lzLiJ9LHsiaWNvbiI6InBlcnNvbiIsInRpdGxlIjoiQ291cnMgcGFydGljdWxpZXJzIiwiYWNjZW50IjpmYWxzZSwiY3RhTGFiZWwiOiIiLCJjdGFIcmVmIjoiIiwiZGVzY3JpcHRpb24iOiJBdSBzdHVkaW8gb3Ugw6AgZG9taWNpbGUsIHNldWwgb3UgZW4gZHVvIDogNjUg4oKsIGxhIHPDqWFuY2UgZCd1bmUgaGV1cmUsIDMwMCDigqwgbGVzIGNpbnEgc8OpYW5jZXMuIn1dfQ==" data-cms-block="corporate/services-grid">
+</div>
 
-Étudiants, demandeurs d'emploi et plus de 65 ans : **-20 %** sur toutes les formules, sur présentation d'un justificatif.
-
-## Cours particuliers
-
-À domicile ou au studio, pour vous seul ou en duo : **65 €** la séance d'une heure, **300 €** les cinq séances. Idéal pour démarrer en confiance, préparer une reprise après une blessure ou approfondir sa pratique.
-
-## Bon cadeau
-
-Offrez une carte de 5 cours ou un cours particulier : nous préparons un joli bon cadeau à retirer au studio ou à recevoir par e-mail.
-
-![Main tenant un bol de thé chaud aux rondelles de citron](https://fleox.github.io/flexweg-test-site/media/2026/10/bol-the-citron-main-e25ffb/large.webp)
-
-Paiement par carte, espèces, chèque ou chèques-vacances. Certains comités d'entreprise remboursent une partie de l'abonnement : demandez-nous une facture. [Réserver un cours d'essai](/contact.html)
+<div data-attrs="eyJleWVicm93IjoiIiwidGl0bGUiOiJCb24gw6Agc2F2b2lyIiwic3VidGl0bGUiOiIiLCJhbHRlcm5hdGUiOnRydWUsImZlYXR1cmVzIjpbeyJpY29uIjoicGVyY2VudCIsImV5ZWJyb3ciOiItMjAgJSIsInRpdGxlIjoiVGFyaWZzIHLDqWR1aXRzIiwiZGVzY3JpcHRpb24iOiLDiXR1ZGlhbnRzLCBkZW1hbmRldXJzIGQnZW1wbG9pIGV0IHBsdXMgZGUgNjUgYW5zIDogMjAgJSBkZSByw6lkdWN0aW9uIHN1ciB0b3V0ZXMgbGVzIGZvcm11bGVzLCBzdXIgcHLDqXNlbnRhdGlvbiBkJ3VuIGp1c3RpZmljYXRpZi4gUGFpZW1lbnQgcGFyIGNhcnRlLCBlc3DDqGNlcywgY2jDqHF1ZSBvdSBjaMOocXVlcy12YWNhbmNlcyA7IGZhY3R1cmUgc3VyIGRlbWFuZGUgcG91ciB2b3RyZSBjb21pdMOpIGQnZW50cmVwcmlzZS4iLCJjdGFMYWJlbCI6IiIsImN0YUhyZWYiOiIiLCJpbWFnZVVybCI6Ii9tZWRpYS8yMDI2LzEwL2ZlbW1lLWNoYW1wLWRvcmUtYWM4NDI3L2xhcmdlLndlYnAiLCJpbWFnZUFsdCI6IkZlbW1lIGF1eCBsb25ncyBjaGV2ZXV4IGRhbnMgdW4gY2hhbXAgZG9yw6kifSx7Imljb24iOiJyZWRlZW0iLCJleWVicm93Ijoiw4Agb2ZmcmlyIiwidGl0bGUiOiJCb24gY2FkZWF1IiwiZGVzY3JpcHRpb24iOiJPZmZyZXogdW5lIGNhcnRlIGRlIDUgY291cnMgb3UgdW4gY291cnMgcGFydGljdWxpZXIgOiBub3VzIHByw6lwYXJvbnMgdW4gam9saSBib24gY2FkZWF1IMOgIHJldGlyZXIgYXUgc3R1ZGlvIG91IMOgIHJlY2V2b2lyIHBhciBlLW1haWwuIiwiY3RhTGFiZWwiOiJDb21tYW5kZXIiLCJjdGFIcmVmIjoiL2NvbnRhY3QuaHRtbCIsImltYWdlVXJsIjoiL21lZGlhLzIwMjYvMTAvdGhlaWVyZS1pbmZ1c2lvbi1mbGV1cnMtZTU0OGRmL2xhcmdlLndlYnAiLCJpbWFnZUFsdCI6IlRow6lpw6hyZSBkJ2luZnVzaW9uIGV0IGZsZXVycyBqYXVuZXMifV19" data-cms-block="corporate/feature-stack">
+</div>
