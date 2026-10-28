@@ -7,7 +7,7 @@ status: online
 authorId: "github:fleox"
 termIds: ["mUETM2qBz5TGH0PVmKmD","cZxuN8GOhe1H0RMLY1Tw","W6pHPB9I63HwTWb4aW8A"]
 createdAt: "2026-09-18T09:00:00.000Z"
-updatedAt: "2026-10-28T14:18:28.087Z"
+updatedAt: "2026-10-28T14:18:30.665Z"
 excerpt: La souplesse n'est pas un prérequis mais une conséquence. Nos conseils pour aborder votre premier cours sans appréhension.
 heroMediaId: hJAYaogDoc0WQ4ZafNWF
 primaryTermId: mUETM2qBz5TGH0PVmKmD
