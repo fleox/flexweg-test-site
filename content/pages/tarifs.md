@@ -7,7 +7,7 @@ status: draft
 authorId: "github:fleox"
 termIds: []
 createdAt: "2026-10-28T12:41:33.493Z"
-updatedAt: "2026-10-28T12:41:33.493Z"
+updatedAt: "2026-10-28T12:43:23.267Z"
 excerpt: Cours à l'unité, cartes, abonnements et cours particuliers.
 seo: {"description":"Tarifs de Studio Prana : cours d'essai à 12 €, cartes 5 et 10 cours, abonnements dès 59 € par mois, cours particuliers."}
 ---
