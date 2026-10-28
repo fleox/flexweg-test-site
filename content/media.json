@@ -1,5 +1,53 @@
 [
   {
+    "id": "EAv31EvFG9HPqwhR51K1",
+    "name": "sommets-mer-de-nuages.jpg",
+    "contentType": "image/webp",
+    "size": 292046,
+    "storageBase": "media/2026/10/sommets-mer-de-nuages-9ba086",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 6040
+      },
+      "admin-preview": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/admin-preview.webp",
+        "width": 800,
+        "height": 534,
+        "bytes": 27718
+      },
+      "admin-original": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/admin-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 134582
+      },
+      "small": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 16996
+      },
+      "medium": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 37072
+      },
+      "large": {
+        "url": "https://fleox.github.io/flexweg-test-site/media/2026/10/sommets-mer-de-nuages-9ba086/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 69638
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793190881560,
+    "uploadedBy": "github:fleox"
+  },
+  {
     "id": "cpPReAVELSkcWXrFrCNa",
     "name": "coucher-soleil-prairie-arbres.jpg",
     "contentType": "image/webp",
