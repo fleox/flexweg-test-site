@@ -21,6 +21,14 @@
     }
   },
   {
+    "id": "cZxuN8GOhe1H0RMLY1Tw",
+    "type": "tag",
+    "name": "Débutants",
+    "slug": "debutants",
+    "createdAt": 1793191314477,
+    "updatedAt": 1793191314477
+  },
+  {
     "id": "kE7WYG9O4vsQ51HM3CQ7",
     "type": "category",
     "name": "Bien-être",
